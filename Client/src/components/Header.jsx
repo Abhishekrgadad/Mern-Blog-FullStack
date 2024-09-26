@@ -27,7 +27,7 @@ export default function Header() {
             <FaMoon/>
           </Button>
           <Link to='/sign-in'>
-            <Button gradientduotone='purpleToBlue' >
+            <Button gradientduotone='purpleToBlue' outline >
               SignIn
             </Button>
           </Link>
